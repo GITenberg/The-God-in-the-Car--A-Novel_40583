@@ -1,0 +1,36 @@
+_repo: The-God-in-the-Car--A-Novel_40583
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40583-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: British author and playwright Anthony Hope established his literary reputation
+  as a writer of adventure novels. In The God in the Car, he takes a different tack,
+  applying the same taut plotting that enlivens his adventure novels to a gripping
+  tale of political intrigue.
+gutenberg_issued: '2012-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Ambition -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Great Britain -- Colonies -- Africa -- Fiction'
+- !lcsh 'Finance -- Fiction'
+- !lcc 'PR'
+title: 'The God in the Car: A Novel'
+url: http://www.gutenberg.org/ebooks/40583
